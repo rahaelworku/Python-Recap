@@ -29,3 +29,5 @@ print("It went", up_down,"by",how_much)
 
 print("I am adding a change")
 
+print (soup)
+
